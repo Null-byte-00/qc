@@ -5,6 +5,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>. 
 */
 #ifndef _QC_H_
+#define _QC_H_
 #include<complex.h>
 
 typedef float _Complex cfloat;
