@@ -285,7 +285,7 @@ Q2 cs(Q control, Q target) {
 
 Q2 swap(Q control, Q target) {
     /* 
-    Controlled Z Gate 
+    Swap Gate 
     this one is kinda useless but i wrote it anyways
     */
     M4 matrix;
